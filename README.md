@@ -1,2 +1,7 @@
-# circumgalactic-medium
-Vassar College
+# Comparing Cooling Dynamics of the Modeled Circumgalactic Medium at Varying Metallicities Using MAIHEM Simulations
+
+#### Mariah Jones<sup>1</sup>, Ed Buie II<sup>1</sup>
+ _Vassar College<sup>1</sup>_
+
+#### Abstract:
+The circumgalactic medium (CGM) is a crucial component in understanding galaxy formation, evolution, and feedback processes due to its role in gas accretion and feedback. Despite being less dense than the interstellar medium (ISM), the CGM holds a significantly larger amount of baryons and heavy elements, and its study can provide deeper insights into inner-galactic behaviors. In this work, we investigate the effects of varying metallicity on the cooling and physical properties of the CGM using magneto-hydrodynamic simulations conducted with the MAIHEM non-equilibrium chemistry package. Our simulations model Milky Way-like galaxies at three different metallicities (0.3, 0.7, and 1.0 solar metallicity) to understand how these variances influence the kinematics, ionization states, and temperature distributions within the CGM. We employ a gravitational potential based on the Navarro-Frenk-White (NFW) profile, artificial turbulence driven by solenoidal modes, and an EUVB irradiating the gas to ensure realistic conditions. The simulations are conducted in an 800 kpc box with static mesh refinement, and they incorporate both hydrodynamic and magneto-hydrodynamic models. Our results reveal the impact of metallicity variations on the CGM's thermal properties, ionization structures, and overall cooling rates, providing new insights into the processes governing the circumgalactic environment. This work advances our understanding of CGM evolution and the role of metallicity in shaping its physical characteristics.
